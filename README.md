@@ -1,2 +1,2 @@
 # IMR-Homework1
-Un caracter apare atunci cand camera detecteaza imaginea cu cactus
+La detectarea imaginii cu cactus apare un caracter in stare idle. Pozitia assetului se misca odata cu imaginea
